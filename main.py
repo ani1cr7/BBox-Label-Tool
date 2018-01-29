@@ -125,7 +125,7 @@ class LabelTool():
             self.parent.focus()
             self.category = int(s)
         else:
-            s = r'D:\workspace\python\labelGUI'
+            s = r'/Users/anirudhpanthula/Desktop/YOLO'
 ##        if not os.path.isdir(s):
 ##            tkMessageBox.showerror("Error!", message = "The specified dir doesn't exist!")
 ##            return
